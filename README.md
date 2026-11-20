@@ -17,13 +17,11 @@
 
 <div align="center"> 
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g3ovs4skf0nbjusutiff4t0hk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=86a951&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
 </p>
 
 <p align="center">
-<a href="https://rentry.co/crid">rentry</a> & <a href="https://getoguru.straw.page/">strawpage</a>  <img src="https://64.media.tumblr.com/d644a4147cb5421a6c0029851ccc75a5/227ca944526be4dc-a5/s75x75_c1/835cbe15374570579e5339b4a1d0d762912cb96d.gifv"
+<a href="https://lioncured.straw.page">strawpage</a> & <a href="https://letterboxd.com/no1radioheadfan/">letterboxd</a>  <img src="https://64.media.tumblr.com/d644a4147cb5421a6c0029851ccc75a5/227ca944526be4dc-a5/s75x75_c1/835cbe15374570579e5339b4a1d0d762912cb96d.gifv"
 </p>
 
 
